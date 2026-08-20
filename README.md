@@ -25,7 +25,7 @@ A complete, ground-up implementation of a Multi-Class Feedforward Neural Network
 
 ## 📌 Project Overview
 
-Understanding deep learning requires building neural networks from first principles. This repository contains a fully working Jupyter Notebook (`Piyush_Jangade_GenerativeAILabAssignment.ipynb`) that implements a 3-layer neural network from scratch to solve a multi-class classification problem on the **Iris Dataset**.
+Understanding deep learning requires building neural networks from first principles. This repository contains a fully working Jupyter Notebook (`Himanshu_Gharde_GenerativeAILabAssignment.ipynb`) that implements a 3-layer neural network from scratch to solve a multi-class classification problem on the **Iris Dataset**.
 
 ### 🌟 Key Highlights
 * **Zero Deep Learning Frameworks**: Built using pure vector math in **NumPy** (`np.dot`, matrix calculus).
@@ -101,7 +101,7 @@ $$W_2 \leftarrow W_2 - \alpha \cdot dW_2, \quad b_2 \leftarrow b_2 - \alpha \cdo
 ```
 GEN-AI-Assignment-1/
 │
-├── Piyush_Jangade_GenerativeAILabAssignment.ipynb   # Main Jupyter Notebook implementation
+├── Himanshu_Gharde_GenerativeAILabAssignment.ipynb   # Main Jupyter Notebook implementation
 └── README.md                                         # Detailed documentation & mathematical breakdown
 ```
 
